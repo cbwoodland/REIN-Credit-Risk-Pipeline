@@ -26,7 +26,7 @@ By scraping unstructured market commentary, extracting numerical sentiment featu
 
 \### 📊 Interactive Dashboard Preview
 
-\* \*\*Live Tableau Cockpit:\*\* \[View Interactive Dashboard](https://public.tableau.com/views/EnterpriseCreditRisk/Sheet1)
+\* \*\*Live Tableau Cockpit:\*\* \[View Interactive Dashboard](https://public.tableau.com/views/EnterpriseCreditRisk/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 

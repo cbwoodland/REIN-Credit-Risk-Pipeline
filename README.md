@@ -15,14 +15,6 @@ Live Tableau Cockpit: [View Interactive Dashboard](https://public.tableau.com/vi
 
 
 
-[Python](https://img.shields.io/badge/Python-3.14+-blue.svg)
-
-[SQLite](https://img.shields.io/badge/SQLite-3.0+-green.svg)
-
-[scikit-learn](https://img.shields.io/badge/scikit--learn-1.9+-orange.svg)
-
-[License](https://img.shields.io/badge/License-MIT-purple.svg)
-
 
 
 
